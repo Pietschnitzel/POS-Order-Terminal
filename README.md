@@ -1,2 +1,4 @@
 # POS-Order-Terminal
-yea the thing
+due to (un)popular demand, Vibecoded POS Terminal with Printer
+
+best to run in a venv due to POS library being fucky
